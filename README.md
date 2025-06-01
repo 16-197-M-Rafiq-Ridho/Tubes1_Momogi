@@ -98,7 +98,7 @@ npm run start
    ./run-bots.sh
    ```
 
-<p>and Enjjooyyyy.........walaupun bekum optimal</p>
+<p>and Enjjooyyyy.........walaupun belum optimal</p>
 
 
 ## Contributors
